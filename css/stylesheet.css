@@ -200,7 +200,7 @@ a {
   nav {
       display: flex;
       flex-direction: column-reverse;
-      background-color: #2b2c38;
+      background-color: white;
   }
 
   .logo {
